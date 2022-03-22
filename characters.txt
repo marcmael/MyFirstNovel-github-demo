@@ -1,0 +1,2 @@
+chapter 1
+Easily craft, personalize, and A/B test campaigns to text subscribers about product releases, sales, exclusive offers, and more.Build SMS flows powered by real-time events (like abandoned carts) and custom conditions to send each subscriber down their own personalized path to purchase.
