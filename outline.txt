@@ -1,2 +1,2 @@
 chapter 1
-- We meed Nick, Tom, Daisy and JordanCover the basics with must-have elements for successful product pages. Get familiar with the fundamental elements, learn how to create a phenomenal mobile experience, and get ahead of the competition with a winning SEO strategy.
+- We meed Nick, Tom, Daisy and JordanDevOps is a tactical approach to creating and delivering software designed to close the gap between development and IT operations. Leveraging observability, AI, and automation on a single platform helps Dev and Ops teams collaborate more efficiently, accelerate CI/CD pipelines, and improve code quality.

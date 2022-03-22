@@ -1,2 +1,3 @@
-chapter 1
-Easily craft, personalize, and A/B test campaigns to text subscribers about product releases, sales, exclusive offers, and more.Build SMS flows powered by real-time events (like abandoned carts) and custom conditions to send each subscriber down their own personalized path to purchase.
+We asked 1,300 global development and DevOps leaders about the biggest challenges they’re facing achieving DevOps at scale, and keeping up with the demand for digital innovation.
+
+Explore the critical takeaways below, and download the full report to dive deep into what they told us.
